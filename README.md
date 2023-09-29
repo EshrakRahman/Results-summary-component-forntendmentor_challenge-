@@ -95,5 +95,5 @@ Having tackled FrontendMasters' challenge, I delved into CSS Flexbox, streamlini
 ## Author
 
 - Website - [Eshrak Rahman](https://github.com/EshrakRahman)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/EshrakRahman)
+- Frontend Mentor - [@eshrarahman](https://www.frontendmentor.io/profile/EshrakRahman)
 
