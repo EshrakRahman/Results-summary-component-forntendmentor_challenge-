@@ -184,6 +184,11 @@ main {
 
 }
 
+.btn:hover {
+    background: linear-gradient( hsla(256, 72%, 46%), hsla(241, 72%, 46%));
+    cursor: pointer;
+}
+
 @media only screen and (max-width: 375px){
     main {
         display: flex;
